@@ -7,3 +7,7 @@ npm i -g nodemon
 
 Then, all the set up is based on index.js file
 For learning purposes.
+
+Starting server with
+
+node .\api.js
